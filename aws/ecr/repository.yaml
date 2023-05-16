@@ -13,4 +13,4 @@ spec:
       scanOnPush: true
     imageTagMutability: IMMUTABLE
   providerConfigRef:
-    name: providerconfig-aws
+    name: default

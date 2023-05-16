@@ -16,4 +16,4 @@ spec:
         - applyServerSideEncryptionByDefault:
             sseAlgorithm: AES256
   providerConfigRef:
-    name: providerconfig-aws
+    name: default

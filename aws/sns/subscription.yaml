@@ -11,4 +11,4 @@ spec:
     topicArnRef:
       name: email-topic
   providerConfigRef:
-    name: providerconfig-aws
+    name: default
