@@ -8,4 +8,4 @@ spec:
     name: email-topic
     region: eu-central-1
   providerConfigRef:
-    name: default
+    name: providerconfig-aws

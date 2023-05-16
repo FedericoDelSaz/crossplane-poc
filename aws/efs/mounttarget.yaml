@@ -10,7 +10,7 @@ spec:
     fileSystemIDRef: 
       name: test-filesystem
   providerConfigRef:
-    name: default
+    name: providerconfig-aws
   writeConnectionSecretToRef:
     name: test-mounttarget
     namespace: default

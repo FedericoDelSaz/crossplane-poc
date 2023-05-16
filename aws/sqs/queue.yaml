@@ -17,4 +17,4 @@ spec:
     # 5 minutes
     messageRetentionPeriod: 300
   providerConfigRef:
-    name: default
+    name: providerconfig-aws

@@ -29,4 +29,4 @@ spec:
     name: test-rabbitmq
     namespace: default
   providerConfigRef:
-    name: default
+    name: providerconfig-aws

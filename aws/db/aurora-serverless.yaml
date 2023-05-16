@@ -36,4 +36,4 @@ spec:
     name: test-aurora-serverless
     namespace: default
   providerConfigRef:
-    name: default
+    name: providerconfig-aws

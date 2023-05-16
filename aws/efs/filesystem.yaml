@@ -16,4 +16,4 @@ spec:
       - key: Version
         value: v1.0.0
   providerConfigRef:
-    name: default
+    name: providerconfig-aws

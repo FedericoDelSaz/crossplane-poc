@@ -30,4 +30,4 @@ spec:
     name: test-activemq
     namespace: default
   providerConfigRef:
-    name: default
+    name: providerconfig-aws
